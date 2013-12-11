@@ -1,0 +1,17 @@
+.idea
+*.iml
+*.iws
+*.ipr
+*/target/*
+.settings
+.classpath
+.project
+bin
+/logs/*
+*/logs/*
+/finch-gui/*.sublime-workspace
+/finch-gui/*.sublime-project
+/finch-fitnesse/*.log*
+/finch-fitnesse/FitNesseRoot/files/testResults/*
+/finch-fitnesse/FitNesseRoot/ErrorLogs/*
+*.log*
